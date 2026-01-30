@@ -1,0 +1,38 @@
+commit 8f9fe3169a3d5ef9b708cdc56477a74ed18981b8
+Merge: f08444f de1f5e0
+Author: scarylobter <acaullyamale@gmail.com>
+Date:   Fri Jan 30 11:59:30 2026 -0800
+
+    resolve merge conflict in index.html
+
+commit f08444fa875583bc0f71b206c96b7012db2ebe56
+Author: scarylobter <acaullyamale@gmail.com>
+Date:   Fri Jan 30 11:57:33 2026 -0800
+
+    added the fav movie
+
+commit de1f5e06786d07be1692ad90dfc4ab5a6175d9af
+Author: scarylobter <acaullyamale@gmail.com>
+Date:   Fri Jan 30 11:21:15 2026 -0800
+
+    Modify personal details in index.html
+    
+    Updated personal information and added a new div.
+
+commit ba5889a2ec3e29df864ef1070729b6b6c4b98dac
+Author: scarylobter <acaullyamale@gmail.com>
+Date:   Fri Jan 30 11:20:02 2026 -0800
+
+    Add initial content to README.md
+
+commit 5214e19cd7e18e52e55c7ebd45cd8cf624eb4beb
+Author: scarylobter <acaullyamale@gmail.com>
+Date:   Fri Jan 30 11:14:57 2026 -0800
+
+    fill in blanks in index.html
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
